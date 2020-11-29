@@ -1,2 +1,4 @@
 branch learning
-Creating a branch is quick AND simple!
+<<<<<<< HEAD
+Creating a branch is quick & simple!
+
